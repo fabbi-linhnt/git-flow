@@ -5,8 +5,8 @@
   - Develop branch: develop
   - Feature/task branch: feature(or task)/[feature/task name]
 2. Develop feature/task:
-  - git checkout -b <branch name>
+  - git checkout -b [branch name]
   - git add .
-  - git commit -m <message>
+  - git commit -m [message]
   - git rebase develop
-  - git push origin <branch name>
+  - git push origin [branch name]
